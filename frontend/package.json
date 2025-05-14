@@ -10,12 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "atomize": "^1.0.28",
+    "bootstrap": "^5.3.6",
     "react": "^19.1.0",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "^19.1.0",
-    "react-transition-group": "^4.4.5",
-    "styletron-engine-atomic": "^1.6.2",
-    "styletron-react": "^6.1.1"
+    "react-transition-group": "^4.4.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
